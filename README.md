@@ -9,6 +9,12 @@
 
 ・使用者可點擊餐廳卡片觀看詳細資料
 
+・使用者可新增餐廳資料
+
+・使用者可修改餐廳資料
+
+・使用者可刪除餐廳資料
+
 ## 安裝 
 1. 使用終端機 Clone 此專案至本機電腦
 ```
@@ -49,3 +55,4 @@ nodemon app.js
 * Express-Handlebars 3.0.0
 * Bootstrap 5.2.0
 * Font-awesome 6.1.1
+* mongoose 5.13.14
